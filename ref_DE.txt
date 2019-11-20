@@ -1,0 +1,12 @@
+https://nathanrooy.github.io/posts/2017-08-27/simple-differential-evolution-with-python/
+
+https://github.com/scipy/scipy/blob/master/scipy/optimize/_differentialevolution.py
+
+https://www1.icsi.berkeley.edu/~storn/code.html
+
+https://medium.com/@shubham.k.dokania/evolutionary-algorithms-i-differential-evolution-4d60b8f4e79b
+
+https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/
+
+https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.optimize.differential_evolution.html
+
